@@ -1,0 +1,7 @@
+C:\Users\Alumno\source\repos\PrimeraApp\PrimeraApp\bin\Debug\PrimeraApp.exe.config
+C:\Users\Alumno\source\repos\PrimeraApp\PrimeraApp\bin\Debug\PrimeraApp.exe
+C:\Users\Alumno\source\repos\PrimeraApp\PrimeraApp\bin\Debug\PrimeraApp.pdb
+C:\Users\Alumno\source\repos\PrimeraApp\PrimeraApp\obj\Debug\PrimeraApp.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\PrimeraApp\PrimeraApp\obj\Debug\PrimeraApp.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\PrimeraApp\PrimeraApp\obj\Debug\PrimeraApp.exe
+C:\Users\Alumno\source\repos\PrimeraApp\PrimeraApp\obj\Debug\PrimeraApp.pdb
